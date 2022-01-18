@@ -1,0 +1,25 @@
+body
+{
+    letter-spacing: 5px;
+    background-image: url("https://i.pinimg.com/originals/de/2d/2e/de2d2e23d4108336fa27d616e7a03e59.png");
+    font-weight: bolder;
+    font-family: 'Oswald', sans-serif;
+    background-size: cover;
+    color: white;
+}
+#note
+{
+    background-color: yellow !important;
+}
+button
+{
+    background-color: black;
+    font-size: max-content;
+    width: 100px;
+    width: 100px;
+}
+canvas
+{
+    background-color: cadetblue;
+    margin-top: 100px;
+}
